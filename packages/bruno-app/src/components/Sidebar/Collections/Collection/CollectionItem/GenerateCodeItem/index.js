@@ -72,6 +72,11 @@ const languages = [
     name: 'Shell-httpie',
     target: 'shell',
     client: 'httpie'
+  },
+  {
+    name: 'C-libCurl',
+    target: 'c',
+    client: 'libcurl'
   }
 ];
 
